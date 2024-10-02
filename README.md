@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">Student at @ Instituto Superior Técnico Computer Science</h3>
 
-- 🌱 I’m currently learning **Ruby**
-
+- 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and am now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.
+- ✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling and spending time with friends.
 - 📫 How to reach me **dias.tiago03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

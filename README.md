@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">Student at @ Instituto Superior Técnico</h3>
+<h3 align="center" ref="https://tecnico.ulisboa.pt/pt/">Student at @ Instituto Superior Técnico</h3>
 <h3 align="center">Computer Science</h3>
 
 - 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and am now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.

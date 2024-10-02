@@ -4,9 +4,9 @@
 </h3>
 <h3 align="center">Computer Science</h3>
 
-🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and am now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.
-✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling and spending time with friends.
-📫 Contact me! **dias.tiago03@gmail.com**
+🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and am now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
+✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling and spending time with friends.  
+📫 Contact me! **dias.tiago03@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

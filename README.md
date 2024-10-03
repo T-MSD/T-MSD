@@ -13,7 +13,7 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
 📫 Contact me **dias.tiago03@gmail.com**  
 
 ## Languages and Tools 
-<p align="left">
+<div style="display: block;">
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -29,10 +29,12 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
   <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
   <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-</p>
+</div>
+
+<br clear="left" /> <!-- This will break the float -->
 
 ## Connect with me
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/tiagomsdias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagomsdias" height="30" width="40" style="padding-right:10px;"/></a>
 <a href="https://instagram.com/tiagomsdias_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagomsdias_" height="30" width="40" style="padding-right:10px;"/></a>
 </p>

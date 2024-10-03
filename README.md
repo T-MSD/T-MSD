@@ -31,8 +31,8 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
   <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
 </p>
 
-# Connect with me
-<p align="left">
+## Connect with me
+<p align="center">
 <a href="https://linkedin.com/in/tiagomsdias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagomsdias" height="30" width="40" style="padding-right:10px;"/></a>
 <a href="https://instagram.com/tiagomsdias_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagomsdias_" height="30" width="40" style="padding-right:10px;"/></a>
 </p>

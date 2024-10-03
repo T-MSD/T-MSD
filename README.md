@@ -9,8 +9,11 @@
 My name is Tiago Dias, and I am 21 years old. I am currently seeking my first internship to gain practical experience and, above all, to learn. I excel in collaborative environments and enjoy working with people, where my strong communication skills can contribute to a positive and productive work environment
 
 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and I'm now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
-✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity.  
+<br />
+✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity. 
+<br />
 📫 Contact me **dias.tiago03@gmail.com**  
+<br />
 📝 Check my [CV](https://github.com/T-MSD/T-MSD/blob/main/CV.pdf)  
 
 ## Languages and Tools 

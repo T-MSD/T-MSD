@@ -11,6 +11,7 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and I'm now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
 ✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity.  
 📫 Contact me **dias.tiago03@gmail.com**  
+📝 Check my [CV](https://github.com/T-MSD/T-MSD/blob/main/CV.pdf)  
 
 ## Languages and Tools 
 <div style="display: block;">
@@ -33,7 +34,7 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
 
 <br clear="left" /> <!-- This will break the float -->
 
-## Connect with me
+## Socials
 <p align="left">
 <a href="https://linkedin.com/in/tiagomsdias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagomsdias" height="30" width="40" style="padding-right:10px;"/></a>
 <a href="https://instagram.com/tiagomsdias_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagomsdias_" height="30" width="40" style="padding-right:10px;"/></a>

@@ -10,7 +10,7 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
 
 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and I'm now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
 <br />
-✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity. 
+✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity.  
 <br />
 📫 Contact me **dias.tiago03@gmail.com**  
 <br />

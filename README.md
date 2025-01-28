@@ -14,7 +14,7 @@ My name is Tiago Dias, and I am 21 years old. I am currently seeking my first in
 <br />
 📫 Contact me **dias.tiago03@gmail.com**  
 <br />
-📝 Check my [CV](https://github.com/T-MSD/T-MSD/blob/main/CV.pdf)  
+📝 [CV](https://github.com/T-MSD/T-MSD/blob/main/CV.pdf)  
 
 <br clear="left" /> <!-- This will break the float -->
 

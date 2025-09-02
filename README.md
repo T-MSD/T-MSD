@@ -6,7 +6,7 @@
 
 ## About me
 
-My name is Tiago Dias, and I am 21 years old. I am currently seeking my first internship to gain practical experience and, above all, to learn. I excel in collaborative environments and enjoy working with people, where my strong communication skills can contribute to a positive and productive work environment
+I am a Computer Science student with practical experience at Vodafone. I have a strong foundation in software development and problem-solving, and I am passionate about building efficient, reliable solutions while working in collaborative environments.
 
 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and I'm now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
 <br />

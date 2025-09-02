@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tiago 👋</h1>
 <h3 align="center">
-  Student @ <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a>
+  Master Student @ <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a>
 </h3>
 <h3 align="center">Computer Science</h3>
 

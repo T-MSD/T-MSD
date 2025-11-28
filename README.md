@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Computer Science student with practical experience at Vodafone. I have a strong foundation in software development and problem-solving, and I am passionate about building efficient, reliable solutions while working in collaborative environments.
+Computer Science student with practical experience at Vodafone and a solid foundation in software development and strong problem-solving skills. Currently enrolled in a Master Degree in Computer Science and Engineering. I’m especially drawn to challenging projects where I can contribute to something meaningful and see real-world impact.
 
 🌱 I've completed the [CS50x](https://cs50.harvard.edu/x/2024/) course and I'm now taking [The Odin Project](https://www.theodinproject.com/), where I'm currently learning **Ruby**.  
 <br />

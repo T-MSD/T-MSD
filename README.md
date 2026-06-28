@@ -3,7 +3,7 @@
   Master Student @ <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">Instituto Superior Técnico</a>
 </h3>
 <h3 align="center">
-  Backend Developer @ <a href="https://indiecampers.com" target="_blank">Instituto Superior Técnico</a>
+  Backend Developer @ <a href="https://indiecampers.com" target="_blank">Indie Campers</a>
 </h3>
 
 ## About me

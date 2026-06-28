@@ -8,9 +8,9 @@
 
 ## About me
 
-Computer Science student with practical experience at Vodafone and a solid foundation in software development and strong problem-solving skills. Currently enrolled in a Master Degree in Computer Science and Engineering. I’m especially drawn to challenging projects where I can contribute to something meaningful and see real world impact.
+Computer Science student with practical experience at Vodafone as an Enterprise Architect and as a Backend Developer at Indie Campers. Currently enrolled in a Master Degree in Computer Science and Engineering. I’m especially drawn to challenging projects where I can contribute to something meaningful and see real world impact.
 
-✍️ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity.  
+I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time with friends and do anything that includes physical activity.  
 <br />
 📫 Contact me **dias.tiago03@gmail.com**  
 <br />

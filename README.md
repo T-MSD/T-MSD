@@ -14,7 +14,7 @@ I'm a competitive swimmer, and in my free time, I enjoy traveling, spending time
 <br />
 📫 Contact me **dias.tiago03@gmail.com**  
 <br />
-📝 [CV](https://github.com/T-MSD/T-MSD/blob/main/CV%20Tiago%20Dias.pdf)  
+📝 [CV](https://github.com/T-MSD/T-MSD/blob/main/CV-Tiago-Dias.pdf)  
 
 <br clear="left" /> <!-- This will break the float -->
 
